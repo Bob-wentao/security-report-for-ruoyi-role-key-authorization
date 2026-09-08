@@ -1,0 +1,8 @@
+Repository: https://github.com/yangzongzhuan/RuoYi.git
+Default branch at audit pin time: master
+Exact commit: 7995a83e04e1a88aaea5a8a7c50570dffcb145e0
+Project version: 4.8.3
+Tag: none (the pinned default-branch commit is untagged)
+
+The PoC must be run with REPO_DIR pointing at a clean checkout of this exact
+commit. Do not replace it with a later branch head.
